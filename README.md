@@ -1,7 +1,3 @@
-Aqui tens o texto do teu README.md perfeitamente formatado com Markdown avançado, ícones dinâmicos, destaques visuais e uma estrutura limpa e profissional.
-
-Basta copiares o conteúdo abaixo e colares diretamente no teu ficheiro do GitHub!
-
 🧮 Calculadora Inteligente com Histórico (VB.NET Windows Forms)
 Status do Projeto: 🚀 Concluído & Estável
 
