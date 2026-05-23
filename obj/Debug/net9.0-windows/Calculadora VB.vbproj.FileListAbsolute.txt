@@ -1,0 +1,19 @@
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\bin\Debug\net9.0-windows\Calculadora VB.exe
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\bin\Debug\net9.0-windows\Calculadora VB.deps.json
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\bin\Debug\net9.0-windows\Calculadora VB.runtimeconfig.json
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\bin\Debug\net9.0-windows\Calculadora VB.dll
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\bin\Debug\net9.0-windows\Calculadora VB.pdb
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\obj\Debug\net9.0-windows\Calculadora_VB.Form1.resources
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\obj\Debug\net9.0-windows\Calculadora_VB.Resources.resources
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\obj\Debug\net9.0-windows\Calculadora VB.vbproj.GenerateResource.cache
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\obj\Debug\net9.0-windows\Calculadora VB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\obj\Debug\net9.0-windows\Calculadora VB.AssemblyInfoInputs.cache
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\obj\Debug\net9.0-windows\Calculadora VB.AssemblyInfo.vb
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\obj\Debug\net9.0-windows\Calculadora VB.vbproj.CoreCompileInputs.cache
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\obj\Debug\net9.0-windows\Calculadora VB.sourcelink.json
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\obj\Debug\net9.0-windows\Calculadora VB.dll
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\obj\Debug\net9.0-windows\refint\Calculadora VB.dll
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\obj\Debug\net9.0-windows\Calculadora VB.pdb
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\obj\Debug\net9.0-windows\Calculadora VB.genruntimeconfig.cache
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\obj\Debug\net9.0-windows\ref\Calculadora VB.dll
+C:\Users\leand\EFA57 Cinel - Programador\Programação em Visual Basic NET\Calculadora VB\obj\Debug\net9.0-windows\Calculadora_VB.Form2.resources
